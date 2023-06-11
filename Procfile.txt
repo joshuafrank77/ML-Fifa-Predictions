@@ -1,0 +1,1 @@
+web: voila --no-browser --port=$PORT --Voila.config_file_paths=["./Predict_single_player.ipynb"]
