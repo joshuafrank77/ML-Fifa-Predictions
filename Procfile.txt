@@ -1,1 +1,1 @@
-web: voila --no-browser --port=$PORT --Voila.config_file_paths=["./Predict_single_player.ipynb"]
+web: voila --no-browser --port=$PORT --Voila.config_file_paths=["./Procfile_config.py"]
