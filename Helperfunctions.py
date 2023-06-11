@@ -562,7 +562,7 @@ def no_league_clean_data_players(brasilerao):
 
 def clean_df_11pick():
 
-    df = pd.read_excel('Final Players 06062023.xlsx')
+    df = pd.read_excel('/workspaces/ML-Fifa-Predictions/Final Players 06062023.xlsx')
     df[["market_value"]] = df[["market_value"]].astype("float64")
     df = df.dropna(subset=['besoccer_player_Ranking'])
     # #Selecting only rows that are up to date with the game version 230033 (June 10, 2023)
