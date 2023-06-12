@@ -5,3 +5,4 @@ pycountry_convert
 pycountry
 scikit-learn
 scipy
+openpyxl
