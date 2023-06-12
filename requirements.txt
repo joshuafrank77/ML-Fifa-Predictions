@@ -3,3 +3,4 @@ ipywidgets
 catboost
 pycountry_convert
 pycountry
+jupyterlab=3
