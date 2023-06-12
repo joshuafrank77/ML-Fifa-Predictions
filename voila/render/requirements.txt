@@ -1,8 +1,0 @@
-voila
-ipywidgets
-catboost
-pycountry_convert
-pycountry
-scikit-learn
-scipy
-openpyxl
