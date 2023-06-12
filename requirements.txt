@@ -3,4 +3,5 @@ ipywidgets
 catboost
 pycountry_convert
 pycountry
-jupyterlab==3
+scikit-learn
+scipy
