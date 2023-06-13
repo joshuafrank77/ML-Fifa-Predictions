@@ -1,6 +1,6 @@
 # ML-Fifa-Predictions
 
-This machine learning model predicts the overall and potential ratings of players in the game Fifa23.
+This machine learning model predicts the overall and potential ratings of players in the game Fifa23. Based on data up to 6/07/2023
 
 ## Table of Contents
 - [Instructions for the Url Input Version](#instructions-for-the-url-input-version)
