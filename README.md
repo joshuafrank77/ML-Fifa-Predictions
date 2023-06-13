@@ -97,8 +97,6 @@ To utilize the manual version of the ML-Fifa-Predictions model, please follow th
    ![image](https://github.com/joshuafrank77/ML-Fifa-Predictions/assets/41444376/62095765-4ca7-47c4-b2e5-86ace4c9ad02)
    
 8. To obtain information on Club Total Appearances, Goals, Assists, and Minutes, you can visit [this webpage](https://www.transfermarkt.com/) and navigate to the player you want to predict. Follow these steps:
-
-   - Go to the [Transfermarkt website](https://www.transfermarkt.com/).
    
    - Search for the player you want to predict.
    
@@ -106,7 +104,7 @@ To utilize the manual version of the ML-Fifa-Predictions model, please follow th
    
    - Under the "Stats" tab, click on "All seasons" as shown below:
    
-     ![image](https://github.com/joshuafrank77/ML-Fifa-Predictions/assets/41444376/760a1dc4-1fa5-460b-a3ba-e6c2e112bf19)
+     ![image](https://github.com/joshuafrank77/ML-Fifa-Predictions/assets/41444376/ed4d5016-83f1-4e24-8064-6a94cd5b0d0b)
    
    - After clicking "All seasons," scroll down to see the total statistics, as shown below:
    
@@ -121,6 +119,28 @@ To utilize the manual version of the ML-Fifa-Predictions model, please follow th
      - Minutes Played: 24,464
      
      ![image](https://github.com/joshuafrank77/ML-Fifa-Predictions/assets/41444376/8b69cd6c-9b9f-41e5-a88f-b32b656290c3)
+     
+9. To obtain the National Team Total Appearances, Goals, Assists, and Minutes, follow these steps:
+
+   - In the player's profile on the [Transfermarkt website](https://www.transfermarkt.com/), click on the "National Team" tab as shown below:
+   
+     ![image](https://github.com/joshuafrank77/ML-Fifa-Predictions/assets/41444376/99470578-c575-4698-a73b-a901fa77a9a7)
+   
+   - After clicking the "National Team" tab, the information we need will be displayed, as shown below:
+   
+     ![image](https://github.com/joshuafrank77/ML-Fifa-Predictions/assets/41444376/60508d5c-fd2b-4d12-8cd9-d418499f8c84)
+   
+   In this case, for Mbappe's national team, the total statistics are as follows:
+   - Appearances: 68
+   - Goals: 38
+   - Assists: 24
+   - Minutes Played: 5,124
+   
+   ![image](https://github.com/joshuafrank77/ML-Fifa-Predictions/assets/41444376/c656c8d7-38b0-4748-85f8-40a2c0b03980)
+
+   
+
+
 
 
 
