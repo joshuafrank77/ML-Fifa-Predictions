@@ -56,4 +56,12 @@ To use the manual version of the ML-Fifa-Predictions model, follow these steps:
 
 You can start predicting players' overall and potential ratings using the manual input version by clicking here:[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/joshuafrank77/ML-Fifa-Predictions/HEAD?urlpath=%2Fvoila%2Frender%2FPredict_manual.ipynb)
 
+When you start the application, you will encounter the following menu:
 
+![image](https://github.com/joshuafrank77/ML-Fifa-Predictions/assets/41444376/d9442996-dcb6-437d-bc16-9f8266b3e20e)
+
+There are a lot of fields that we need to make a prediction the first section is the same as the url input version:
+
+![image](https://github.com/joshuafrank77/ML-Fifa-Predictions/assets/41444376/cfd9d8cb-8110-49d9-bccd-ea17e818e1ca)
+
+please see [Instructions for the Url Input Version](#instructions-for-the-url-input-version)
