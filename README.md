@@ -95,6 +95,32 @@ To utilize the manual version of the ML-Fifa-Predictions model, please follow th
    ![image](https://github.com/joshuafrank77/ML-Fifa-Predictions/assets/41444376/53dafaf7-b399-4f10-b7e7-04b3b2fb8284)
    
    ![image](https://github.com/joshuafrank77/ML-Fifa-Predictions/assets/41444376/62095765-4ca7-47c4-b2e5-86ace4c9ad02)
+   
+8. To obtain information on Club Total Appearances, Goals, Assists, and Minutes, you can visit [this webpage](https://www.transfermarkt.com/) and navigate to the player you want to predict. Follow these steps:
+
+   - Go to the [Transfermarkt website](https://www.transfermarkt.com/).
+   
+   - Search for the player you want to predict.
+   
+   - Navigate to the player's profile and click on the "Stats" tab.
+   
+   - Under the "Stats" tab, click on "All seasons" as shown below:
+   
+     ![image](https://github.com/joshuafrank77/ML-Fifa-Predictions/assets/41444376/760a1dc4-1fa5-460b-a3ba-e6c2e112bf19)
+   
+   - After clicking "All seasons," scroll down to see the total statistics, as shown below:
+   
+     ![image](https://github.com/joshuafrank77/ML-Fifa-Predictions/assets/41444376/a0110dde-9001-4064-aecb-bf0dc837614a)
+   
+     ![image](https://github.com/joshuafrank77/ML-Fifa-Predictions/assets/41444376/8fe89f86-4759-435c-a89c-fbeae753834f)
+   
+     In this case, for Mbappe, the total statistics are as follows:
+     - Appearances: 325
+     - Goals: 244
+     - Assists: 116
+     - Minutes Played: 24,464
+     
+     ![image](https://github.com/joshuafrank77/ML-Fifa-Predictions/assets/41444376/8b69cd6c-9b9f-41e5-a88f-b32b656290c3)
 
 
 
