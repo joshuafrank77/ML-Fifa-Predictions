@@ -67,6 +67,16 @@ To utilize the manual version of the ML-Fifa-Predictions model, please follow th
    ![image](https://github.com/joshuafrank77/ML-Fifa-Predictions/assets/41444376/6da111dc-480c-4a7d-9c5c-cb3eba6ec7f2)
 
    The red arrow indicates the player's age, blue represents their position, yellow denotes the league they compete in, green indicates their continent of origin, and orange represents their nationality. The player's market value is also displayed.
+   
+4. To fill the Club Ranking (footysimulator), you can obtain this information from the [FootySimulator website](https://www.footysimulator.co.uk/Rankings/Club/). Simply enter the club name in the search box and copy the rating, as shown in the example below:
+
+   ![image](https://github.com/joshuafrank77/ML-Fifa-Predictions/assets/41444376/3d6c9999-6534-4ec6-9d16-c8c9cf5ede34)
+   
+   ![image](https://github.com/joshuafrank77/ML-Fifa-Predictions/assets/41444376/ace08548-a8e1-4314-8833-1611194d64b7)
+
+
+
+
 
 By following these instructions and providing the necessary information, you will be able to predict players' overall and potential ratings using the manual input version of the ML-Fifa-Predictions model.
 
