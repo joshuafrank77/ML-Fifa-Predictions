@@ -52,16 +52,23 @@ To predict a player's overall rating, follow these steps:
 
 ## Instructions for the Manual Version
 
-To use the manual version of the ML-Fifa-Predictions model, follow these steps:
+To utilize the manual version of the ML-Fifa-Predictions model, please follow these steps:
 
-You can start predicting players' overall and potential ratings using the manual input version by clicking here:[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/joshuafrank77/ML-Fifa-Predictions/HEAD?urlpath=%2Fvoila%2Frender%2FPredict_manual.ipynb)
+1. Begin by clicking on the provided link to access the manual input version: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/joshuafrank77/ML-Fifa-Predictions/HEAD?urlpath=%2Fvoila%2Frender%2FPredict_manual.ipynb).
 
-When you start the application, you will encounter the following menu:
+2. Upon launching the application, you will be presented with the following menu:
 
-![image](https://github.com/joshuafrank77/ML-Fifa-Predictions/assets/41444376/d9442996-dcb6-437d-bc16-9f8266b3e20e)
+   ![image](https://github.com/joshuafrank77/ML-Fifa-Predictions/assets/41444376/d9442996-dcb6-437d-bc16-9f8266b3e20e)
 
-There are a lot of fields that we need to make a prediction the first section is the same as the url input version:
+   This menu contains various fields required for making predictions. The initial set of information can be obtained from the [Transfermarkt website](https://www.transfermarkt.com/).
 
-![image](https://github.com/joshuafrank77/ML-Fifa-Predictions/assets/41444376/cfd9d8cb-8110-49d9-bccd-ea17e818e1ca)
+3. Refer to the image below to understand the different fields:
 
-please see [Instructions for the Url Input Version](#instructions-for-the-url-input-version)
+   ![image](https://github.com/joshuafrank77/ML-Fifa-Predictions/assets/41444376/6da111dc-480c-4a7d-9c5c-cb3eba6ec7f2)
+
+   The red arrow indicates the player's age, blue represents their position, yellow denotes the league they compete in, green indicates their continent of origin, and orange represents their nationality. The player's market value is also displayed.
+
+By following these instructions and providing the necessary information, you will be able to predict players' overall and potential ratings using the manual input version of the ML-Fifa-Predictions model.
+
+
+
