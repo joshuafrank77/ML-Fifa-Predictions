@@ -2,9 +2,13 @@
 
 This machine learning model predicts the overall and potential ratings of players in the game Fifa23.
 
-You can start predicting players' overall and potential ratings using the URL input version by clicking here: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/joshuafrank77/ML-Fifa-Predictions/HEAD?urlpath=%2Fvoila%2Frender%2FPredict_single_player.ipynb)
+## Table of Contents
+- [Instructions for the Url Input Version](#instructions-for-the-url-input-version)
+- [Instructions for the Manual Version](#instructions-for-the-manual-version)
 
-Instructions on how to make predictions:
+## Instructions for the Url Input Version
+
+You can start predicting players' overall and potential ratings using the URL input version by clicking here: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/joshuafrank77/ML-Fifa-Predictions/HEAD?urlpath=%2Fvoila%2Frender%2FPredict_single_player.ipynb)
 
 When you start the application, you will encounter the following menu:
 
@@ -46,4 +50,8 @@ To predict a player's overall rating, follow these steps:
 
 6. Click on the "Predict" button, and the results will be displayed on the screen.
 
-Feel free to explore and make predictions using this machine learning model. Enjoy!
+## Instructions for the Manual Version
+
+To use the manual version of the ML-Fifa-Predictions model, follow these steps:
+
+
