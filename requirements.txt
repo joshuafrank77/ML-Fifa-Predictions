@@ -6,4 +6,3 @@ pycountry
 scikit-learn
 scipy
 openpyxl
-threading
