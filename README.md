@@ -90,6 +90,9 @@ To utilize the manual version of the ML-Fifa-Predictions model, please follow th
    
      ![image](https://github.com/joshuafrank77/ML-Fifa-Predictions/assets/41444376/a8a5020b-e41b-48de-9099-821ce4ed531d)
 
+7. For Besoccer Elo and Besoccer Ranking, you can obtain this information from the [BeSoccer website](https://www.besoccer.com/). Type in the player's name to search for them. In the top image, you can find the Elo rating. For example, for Mbappe, the Elo rating is 90. In the bottom image, you can find the Rating Progression General Ranking Table, which displays the player's ranking. In this case, the ranking for Mbappe is 7.
+   
+   ![image](https://github.com/joshuafrank77/ML-Fifa-Predictions/assets/41444376/53dafaf7-b399-4f10-b7e7-04b3b2fb8284)
 
 
 By following these instructions and providing the necessary information, you will be able to predict players' overall and potential ratings using the manual input version of the ML-Fifa-Predictions model.
