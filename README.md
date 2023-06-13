@@ -73,8 +73,22 @@ To utilize the manual version of the ML-Fifa-Predictions model, please follow th
    ![image](https://github.com/joshuafrank77/ML-Fifa-Predictions/assets/41444376/3d6c9999-6534-4ec6-9d16-c8c9cf5ede34)
    
    ![image](https://github.com/joshuafrank77/ML-Fifa-Predictions/assets/41444376/ace08548-a8e1-4314-8833-1611194d64b7)
+   
+5. For the Transfermarkt link, you will just need to paste the URL from Transfermarkt (this is to retrieve the image from the Transfermarkt URL).
 
+6. To retrieve the achievements, follow these steps:
 
+   - Click on Achievements
+   
+     ![image](https://github.com/joshuafrank77/ML-Fifa-Predictions/assets/41444376/4bfec591-3f55-4b88-91a0-f8a0d38f0229)
+
+   - Count all the titles marked within the red rectangle, as shown in the example below:
+   
+     ![image](https://github.com/joshuafrank77/ML-Fifa-Predictions/assets/41444376/4d474bc9-3afd-454f-b65b-942b7249064e)
+   
+     In this case, for Mbappe, there are 56 titles as indicated.
+   
+     ![image](https://github.com/joshuafrank77/ML-Fifa-Predictions/assets/41444376/a8a5020b-e41b-48de-9099-821ce4ed531d)
 
 
 
