@@ -1,49 +1,49 @@
 # ML-Fifa-Predictions
-This ML predicts the overall and potential in the game Fifa23
 
-You can start predicting players overall and potential here (Url input version): [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/joshuafrank77/ML-Fifa-Predictions/HEAD?urlpath=%2Fvoila%2Frender%2FPredict_single_player.ipynb)
+This machine learning model predicts the overall and potential ratings of players in the game Fifa23.
+
+You can start predicting players' overall and potential ratings using the URL input version by clicking here: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/joshuafrank77/ML-Fifa-Predictions/HEAD?urlpath=%2Fvoila%2Frender%2FPredict_single_player.ipynb)
 
 Instructions on how to make predictions:
 
-This is the menu you will encounter when you start up:
+When you start the application, you will encounter the following menu:
 
 ![image](https://github.com/joshuafrank77/ML-Fifa-Predictions/assets/41444376/a0776c43-c306-4daa-9ef2-0643fe8bf6c0)
 
-The first option you will select is the position that best suits the player you are trying to predict its overall. The available options are:
+To predict a player's overall rating, follow these steps:
 
-- CAM (Center Attacking Midfielder)
-- CB (Center Back)
-- CDM (Center Defensive Midfielder)
-- CF (Center-Forward)
-- CM (Center Midfielder)
-- GK (Goalkeeper)
-- LB (Left Back)
-- LM (Left Midfielder)
-- LW (Left Winger)
-- LWB (Left Wing-Back)
-- RB (Right Back)
-- RM (Right Midfielder)
-- RW (Right Winger)
-- RWB (Right Wing-Back)
-- ST (Striker)
+1. Select the position that best suits the player you want to predict. The available options are:
 
-The Other options includes the current league they play in , continent ,nationality. The last season stats you want to consider for the prediciton.
+   - CAM (Center Attacking Midfielder)
+   - CB (Center Back)
+   - CDM (Center Defensive Midfielder)
+   - CF (Center-Forward)
+   - CM (Center Midfielder)
+   - GK (Goalkeeper)
+   - LB (Left Back)
+   - LM (Left Midfielder)
+   - LW (Left Winger)
+   - LWB (Left Wing-Back)
+   - RB (Right Back)
+   - RM (Right Midfielder)
+   - RW (Right Winger)
+   - RWB (Right Wing-Back)
+   - ST (Striker)
 
-Club ranking you need to get to this webpage where they rank all clubs [here](https://www.footysimulator.co.uk/Rankings/Club/) find the club and copy the ranking number
+2. Provide additional information for the prediction. This includes the current league the player plays in, continent, nationality, and the statistics from the last season that you want to consider.
 
-For exmaple if the player plays for Manchester city I will input 144.018
+3. Enter the club ranking by visiting [this webpage](https://www.footysimulator.co.uk/Rankings/Club/), finding the player's club, and copying the ranking number. For example, if the player plays for Manchester City, the club ranking would be 144.018.
 
-![image](https://github.com/joshuafrank77/ML-Fifa-Predictions/assets/41444376/0e4f94ed-80f5-43c2-968e-117fbf3c2816)
+   ![image](https://github.com/joshuafrank77/ML-Fifa-Predictions/assets/41444376/0e4f94ed-80f5-43c2-968e-117fbf3c2816)
 
-Then for transfermarkt url you will search the player in [ here ](https://www.transfermarkt.com/) and copy the link 
+4. Provide the Transfermarkt URL for the player. Search for the player on the [Transfermarkt website](https://www.transfermarkt.com/), and copy the player's URL. For example, if you want to predict Kylian Mbappé's ratings, the URL would be [https://www.transfermarkt.com/kylian-mbappe/profil/spieler/342229](https://www.transfermarkt.com/kylian-mbappe/profil/spieler/342229).
 
-For example if I want to predict Kylian mbappe this would be its url to paste in that field: [https://www.transfermarkt.com/kylian-mbappe/profil/spieler/342229](https://www.transfermarkt.com/kylian-mbappe/profil/spieler/342229)
+   ![image](https://github.com/joshuafrank77/ML-Fifa-Predictions/assets/41444376/d73f24c4-e10b-4e43-91a7-5d10c48e819d)
 
-![image](https://github.com/joshuafrank77/ML-Fifa-Predictions/assets/41444376/d73f24c4-e10b-4e43-91a7-5d10c48e819d)
+5. Provide the BeSoccer URL for the player. Find the player on the [BeSoccer website](https://www.besoccer.com/) and copy the player's URL. For example, for Mbappé, the URL would be [https://www.besoccer.com/player/k-mbappe-lottin-234474](https://www.besoccer.com/player/k-mbappe-lottin-234474).
 
-Now for besoccer url you will get it from [here ](https://www.besoccer.com/) 
+   ![image](https://github.com/joshuafrank77/ML-Fifa-Predictions/assets/41444376/e09fbcac-9426-41a6-aea9-e1f0729c0aec)
 
+6. Click on the "Predict" button, and the results will be displayed on the screen.
 
-
-
-
+Feel free to explore and make predictions using this machine learning model. Enjoy!
