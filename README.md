@@ -164,10 +164,28 @@ To utilize the manual version of the ML-Fifa-Predictions model, please follow th
    
    ![image](https://github.com/joshuafrank77/ML-Fifa-Predictions/assets/41444376/dba6d3f8-5d1d-4f30-b3ab-757596787a6a)
 
+11. To obtain the last season's stats for Appearances, Goals, Assists, and Minutes, follow these steps:
 
+   - Navigate to the player's profile and click on the "Stats" tab.
    
+   - Under the "Stats" tab, click on "Current season" as shown below:
+   
+     ![image](https://github.com/joshuafrank77/ML-Fifa-Predictions/assets/41444376/cf68fc3a-7e7b-42a1-8251-55a19c18dfa9)
+     
+   - Select the desired season from the "Filter by season" dropdown menu.
+   
+   - Then, click on the "show" button.
+   
+     ![image](https://github.com/joshuafrank77/ML-Fifa-Predictions/assets/41444376/5cffda6c-74b7-4be0-89e5-3c19ad66bac4)
+     
+   - A table will appear showing the information we need. In this case, for Mbappe, the stats for the last season (22/23) are as follows:
+   
+     - Appearances: 43
+     - Goals: 41
+     - Assists: 10
+     - Minutes Played: 3,564
 
-
+     ![image](https://github.com/joshuafrank77/ML-Fifa-Predictions/assets/41444376/af1daa89-8791-441c-a3eb-f594abeb99ff)
 
 
 
