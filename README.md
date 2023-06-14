@@ -138,6 +138,33 @@ To utilize the manual version of the ML-Fifa-Predictions model, please follow th
    
    ![image](https://github.com/joshuafrank77/ML-Fifa-Predictions/assets/41444376/c656c8d7-38b0-4748-85f8-40a2c0b03980)
 
+10. To obtain the First Tier Total Appearances, Goals, Assists, and Minutes, follow these steps:
+
+   - Navigate to the player's profile and click on the "Stats" tab.
+   
+   - Under the "Stats" tab, click on "All seasons" as shown below:
+   
+     ![image](https://github.com/joshuafrank77/ML-Fifa-Predictions/assets/41444376/ed4d5016-83f1-4e24-8064-6a94cd5b0d0b)
+     
+   - Click on the dropdown menu "League ranking / League type:" and select the "First Tier" option.
+   
+   - Then, click on the "show" button.
+   
+     ![image](https://github.com/joshuafrank77/ML-Fifa-Predictions/assets/41444376/594ad652-4313-482d-bc06-1f555653a2a6)
+     
+   - A table will appear showing the information we need, as shown below:
+   
+     ![image](https://github.com/joshuafrank77/ML-Fifa-Predictions/assets/41444376/4e76f342-d676-4c4a-84fe-b06b9822be84)
+
+   In this case, for Mbappe, the first-tier statistics are as follows:
+   - Appearances: 217
+   - Goals: 164
+   - Assists: 67
+   - Minutes Played: 16,041
+   
+   ![image](https://github.com/joshuafrank77/ML-Fifa-Predictions/assets/41444376/dba6d3f8-5d1d-4f30-b3ab-757596787a6a)
+
+
    
 
 
