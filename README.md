@@ -208,6 +208,47 @@ To utilize the manual version of the ML-Fifa-Predictions model, please follow th
      - Assists: 28
      - Minutes Played: 4,834
 
+      ![image](https://github.com/joshuafrank77/ML-Fifa-Predictions/assets/41444376/c2f5fa0a-b3bf-490c-b197-c780eac95c76)
+
+      Now for each idividual competiton we need to add the Appearances, Goals , Assists, and Minutes of all the years that the player participated in that competition. 
+      
+      For example Mbappe participated in 7 Champions league we need to add this information from the table as shown below:
+      
+      ![image](https://github.com/joshuafrank77/ML-Fifa-Predictions/assets/41444376/41942e16-c2cc-4226-8933-8f75b8f27d43)
+
+     - Champions League:
+       - Appearances: 61
+       - Goals: 40
+       - Assists: 26
+       - Minutes Played: 4,770
+    
+     ![image](https://github.com/joshuafrank77/ML-Fifa-Predictions/assets/41444376/0886c95f-6afb-48a5-8e51-6e225024131f)
+
+     - Europa League:
+       - Appearances: 1
+       - Goals: 0
+       - Assists: 1
+       - Minutes Played: 34
+
+      
+     
+     - UEFA Youth League:
+       - Appearances: 1
+       - Goals: 0
+       - Assists: 1
+       - Minutes Played: 30
+
+   This is what the filled-in table would look like:
+   
+   ![image](https://github.com/joshuafrank77/ML-Fifa-Predictions/assets/41444376/869b7410-f5ce-4300-a03e-a2795e0aa781)
+
+  This is what the filled in table would look like:
+  
+  ![image](https://github.com/joshuafrank77/ML-Fifa-Predictions/assets/41444376/c1a14a52-8ed8-445d-9279-913278052188)
+
+  
+  
+
 
 By following these instructions and providing the necessary information, you will be able to predict players' overall and potential ratings using the manual input version of the ML-Fifa-Predictions model.
 
