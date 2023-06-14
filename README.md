@@ -230,8 +230,8 @@ To utilize the manual version of the ML-Fifa-Predictions model, please follow th
        - Assists: 1
        - Minutes Played: 34
 
-      
-     
+     ![image](https://github.com/joshuafrank77/ML-Fifa-Predictions/assets/41444376/869b7410-f5ce-4300-a03e-a2795e0aa781)
+
      - UEFA Youth League:
        - Appearances: 1
        - Goals: 0
@@ -239,11 +239,7 @@ To utilize the manual version of the ML-Fifa-Predictions model, please follow th
        - Minutes Played: 30
 
    This is what the filled-in table would look like:
-   
-   ![image](https://github.com/joshuafrank77/ML-Fifa-Predictions/assets/41444376/869b7410-f5ce-4300-a03e-a2795e0aa781)
 
-  This is what the filled in table would look like:
-  
   ![image](https://github.com/joshuafrank77/ML-Fifa-Predictions/assets/41444376/c1a14a52-8ed8-445d-9279-913278052188)
 
   
