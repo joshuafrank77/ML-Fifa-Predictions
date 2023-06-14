@@ -189,6 +189,24 @@ To utilize the manual version of the ML-Fifa-Predictions model, please follow th
 
      ![image](https://github.com/joshuafrank77/ML-Fifa-Predictions/assets/41444376/af1daa89-8791-441c-a3eb-f594abeb99ff)
 
+12. To obtain the stats for International Cups, follow these steps:
+
+   - Navigate to the player's profile and click on the "Stats" tab.
+   
+   - Under the "Stats" tab, click on "Stats by competition" as shown below:
+   
+     ![image](https://github.com/joshuafrank77/ML-Fifa-Predictions/assets/41444376/306e11f4-9807-4dde-8cdd-70c06d98b022)
+     
+   - Scroll down to the International Cups table.
+   
+     ![image](https://github.com/joshuafrank77/ML-Fifa-Predictions/assets/41444376/5e3963ce-4b87-45dd-9788-217487ee9e55)
+     
+   - In this case, for Mbappe, the stats for International Cups are as follows:
+   
+     - Appearances: 63
+     - Goals: 40
+     - Assists: 28
+     - Minutes Played: 4,834
 
 
 By following these instructions and providing the necessary information, you will be able to predict players' overall and potential ratings using the manual input version of the ML-Fifa-Predictions model.
