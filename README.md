@@ -179,7 +179,9 @@ To utilize the manual version of the ML-Fifa-Predictions model, please follow th
      ![image](https://github.com/joshuafrank77/ML-Fifa-Predictions/assets/41444376/5cffda6c-74b7-4be0-89e5-3c19ad66bac4)
      
    - A table will appear showing the information we need. In this case, for Mbappe, the stats for the last season (22/23) are as follows:
-   
+
+     ![image](https://github.com/joshuafrank77/ML-Fifa-Predictions/assets/41444376/2ccfdff3-bcf2-4f17-8bf9-e94f2a71e04d)
+
      - Appearances: 43
      - Goals: 41
      - Assists: 10
