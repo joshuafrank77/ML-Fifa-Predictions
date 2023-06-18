@@ -1,6 +1,7 @@
 # ML-Fifa-Predictions
 
 This machine learning model predicts the overall and potential ratings of players in the game Fifa23. Based on data up to 6/07/2023
+The models are trained with data from different web pages like [tra](https://www.transfermarkt.com/) , https://sofifa.com/,https://www.footysimulator.co.uk/Rankings/Club/,https://www.besoccer.com/
 
 ## Table of Contents
 - [Instructions for the Url Input Version](#instructions-for-the-url-input-version)
