@@ -8,7 +8,7 @@ This machine learning model predicts the overall and potential ratings of player
 
 ## Instructions for the Url Input Version
 
-You can start predicting players' overall and potential ratings using the URL input version by clicking here: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/joshuafrank77/ML-Fifa-Predictions/HEAD?urlpath=%2Fvoila%2Frender%2FPredict_single_player.ipynb)
+You can start predicting players' overall and potential ratings using the URL input version by clicking here: https://predict-fifa-overall-potential-e49a2cd8c976.herokuapp.com/voila/render/Predict_single_player.ipynb?
 
 When you start the application, you will encounter the following menu:
 
@@ -54,7 +54,7 @@ To predict a player's overall rating, follow these steps:
 
 To utilize the manual version of the ML-Fifa-Predictions model, please follow these steps:
 
-1. Begin by clicking on the provided link to access the manual input version: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/joshuafrank77/ML-Fifa-Predictions/HEAD?urlpath=%2Fvoila%2Frender%2FPredict_manual.ipynb).
+1. Begin by clicking on the provided link to access the manual input version: https://predict-fifa-overall-potential-e49a2cd8c976.herokuapp.com/voila/render/Predict_manual.ipynb?
 
 2. Upon launching the application, you will be presented with the following menu:
 
