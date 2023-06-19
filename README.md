@@ -9,6 +9,15 @@ The models are trained with data from different web pages like https://www.trans
 
 ## Instructions for the Url Input Version
 
+
+
+https://github.com/joshuafrank77/ML-Fifa-Predictions/assets/41444376/92b8335a-fcb3-4e54-8f3c-3cedf80e417a
+
+
+
+https://github.com/joshuafrank77/ML-Fifa-Predictions/assets/41444376/a4777e10-c5c2-4eb1-92dd-eb5a22f409d2
+
+
 You can start predicting players' overall and potential ratings using the URL input version by clicking here: https://predict-fifa-overall-potential-e49a2cd8c976.herokuapp.com/voila/render/Predict_single_player.ipynb?
 
 When you start the application, you will encounter the following menu:
