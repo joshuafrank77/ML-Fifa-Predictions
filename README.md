@@ -58,6 +58,8 @@ To predict a player's overall rating, follow these steps:
 
 To utilize the manual version of the ML-Fifa-Predictions model, please follow these steps:
 
+https://github.com/joshuafrank77/ML-Fifa-Predictions/assets/41444376/6c4c9a57-d88a-49e4-9216-64ab2fa74c18
+
 1. Begin by clicking on the provided link to access the manual input version: https://predict-fifa-overall-potential-e49a2cd8c976.herokuapp.com/voila/render/Predict_manual.ipynb?
 
 2. Upon launching the application, you will be presented with the following menu:
